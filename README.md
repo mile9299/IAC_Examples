@@ -1,11 +1,11 @@
-# Snyk Infrastructure as Code Demo
+# Infrastructure as Code Demo
 
 This repository contains a hello world example which demonstrates the Terraform features of Snyk Infrastructure as code. In particular:
 
 * Detecting CIS Benchmark issues for the AWS Terraform provider
 
 
-## Snyk projects
+## projects
 
 When this repository is imported into Snyk we should scan the `.tf` files and identify any issues. This should appear in Snyk like so:
 
